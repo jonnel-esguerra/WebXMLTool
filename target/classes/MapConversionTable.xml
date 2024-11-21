@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Devices>
+<Product id="NS24LS256HC4JYTRG">
+<ProductID>NS24LS256HC4JYTRG</ProductID>
+<Devicename>NS24LS256HC4JYTRG</Devicename>
+<Goodbin>1</Goodbin>
+<Xdie>1026</Xdie>
+<Ydie>1026</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>200</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue Oct 11 17:07:01 PHT 2022</Date>
+</Product>
+<Product id="N34TS108C6ECT5G">
+<ProductID>N34TS108C6ECT5G</ProductID>
+<Devicename>N34TS108C6ECT5G</Devicename>
+<Goodbin>1</Goodbin>
+<Xdie>850</Xdie>
+<Ydie>1250</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>200</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue Oct 11 17:15:08 PHT 2022</Date>
+</Product>
+<Product id="LC709209FXE-01TBG">
+<ProductID>LC709209FXE-01TBG</ProductID>
+<Devicename>LC709209FXE-01TBG</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1510</Xdie>
+<Ydie>1940</Ydie>
+<FlatOrientation>0</FlatOrientation>
+<WaferSize>200</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue Oct 11 17:19:19 PHT 2022</Date>
+</Product>
+<Product id="LC898130DP1XHTBG">
+<ProductID>LC898130DP1XHTBG</ProductID>
+<Devicename>LC898130DP1XHTBG</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1320</Xdie>
+<Ydie>4765</Ydie>
+<FlatOrientation>0</FlatOrientation>
+<WaferSize>300</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue Oct 11 17:20:58 PHT 2022</Date>
+</Product>
+<Product id="LC898130DPAXHTBG">
+<ProductID>LC898130DPAXHTBG</ProductID>
+<Devicename>LC898130DPAXHTBG</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1320</Xdie>
+<Ydie>4765</Ydie>
+<FlatOrientation>0</FlatOrientation>
+<WaferSize>300</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue Oct 11 17:21:45 PHT 2022</Date>
+</Product>
+<Product id="LC898130DPNXHTBG">
+<ProductID>LC898130DPNXHTBG</ProductID>
+<Devicename>LC898130DPNXHTBG</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1320</Xdie>
+<Ydie>4765</Ydie>
+<FlatOrientation>0</FlatOrientation>
+<WaferSize>300</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue Oct 11 17:22:20 PHT 2022</Date>
+</Product>
+<Product id="LC898128DP1XHTBG">
+<ProductID>LC898128DP1XHTBG</ProductID>
+<Devicename>LC898128DP1XHTBG</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1200</Xdie>
+<Ydie>4325</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>300</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue Oct 11 17:24:19 PHT 2022</Date>
+</Product>
+<Product id="LC898128DPAXHTBG">
+<ProductID>LC898128DPAXHTBG</ProductID>
+<Devicename>LC898128DPAXHTBG</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1200</Xdie>
+<Ydie>4325</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>300</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue Oct 11 17:26:20 PHT 2022</Date>
+</Product>
+<Product id="898128DP1XG-DSG">
+<ProductID>898128DP1XG-DSG</ProductID>
+<Devicename>LC898128DP1XH</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1200</Xdie>
+<Ydie>4325</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>300</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue Oct 11 17:34:30 PHT 2022</Date>
+</Product>
+<Product id="20915-003-XDS">
+<ProductID>20915-003-XDS</ProductID>
+<Devicename>20915-003-XDS</Devicename>
+<Goodbin>1</Goodbin>
+<Xdie>4460</Xdie>
+<Ydie>5240</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>200</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue Oct 11 17:42:57 PHT 2022</Date>
+</Product>
+<Product id="NS24X08C4DTG">
+<ProductID>NS24X08C4DTG</ProductID>
+<Devicename>NS24X08C4DTG</Devicename>
+<Goodbin>1</Goodbin>
+<Xdie>786</Xdie>
+<Ydie>786</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>200</WaferSize>
+<User>zbhy8m</User>
+<Date>Tue Oct 25 16:21:36 PHT 2022</Date>
+</Product>
+<Product id="8129DPAXHTBG-MPNBL7F">
+<ProductID>8129DPAXHTBG-MPNBL7F</ProductID>
+<Devicename>8129DPAXHTBG-MPNBL7FX</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1200</Xdie>
+<Ydie>4325</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>300</WaferSize>
+<User>FG3D3Y</User>
+<Date>Fri Dec 09 00:51:17 PHT 2022</Date>
+</Product>
+<Product id="898129DPAXHTBG-NBL7S">
+<ProductID>898129DPAXHTBG-NBL7S</ProductID>
+<Devicename>898129DPAXHTBG-NBL7SG</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1200</Xdie>
+<Ydie>4325</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>300</WaferSize>
+<User>FG3D3Y</User>
+<Date>Fri Dec 23 20:08:21 PHT 2022</Date>
+</Product>
+<Product id="LC898129DL1XHTBG-ENG">
+<ProductID>LC898129DL1XHTBG-ENG</ProductID>
+<Devicename>LC898129DL1XHTBG-ENG</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1200</Xdie>
+<Ydie>4325</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>300</WaferSize>
+<User>zbhy8m</User>
+<Date>Wed Feb 15 09:11:09 PHT 2023</Date>
+</Product>
+<Product id="898129DL1-JCP-DSG">
+<ProductID>898129DL1-JCP-DSG</ProductID>
+<Devicename>898129DL1-JCP-DSG</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1200</Xdie>
+<Ydie>4325</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>300</WaferSize>
+<User>zbhy8m</User>
+<Date>Wed Feb 15 09:19:12 PHT 2023</Date>
+</Product>
+</Devices>

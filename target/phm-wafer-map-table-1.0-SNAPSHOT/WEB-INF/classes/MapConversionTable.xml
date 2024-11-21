@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Devices>
+<Product id="PRODUCT1">
+<ProductID>PRODUCT1</ProductID>
+<Devicename>DEV1</Devicename>
+<Goodbin>8</Goodbin>
+<Xdie>1000</Xdie>
+<Ydie>1000</Ydie>
+<FlatOrientation>180</FlatOrientation>
+<WaferSize>200</WaferSize>
+<User>ffz3cz</User>
+<Date>Tue May 05 11:40:59 CST 2020</Date>
+</Product>
+</Devices>
